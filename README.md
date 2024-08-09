@@ -1,8 +1,11 @@
-# React + Vite
+# Introduction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quiz App is an interactive web application that allows users to take quizzes and create their own quizzes. The app is built using React.js and Tailwind CSS, offering a smooth user experience with a modern design.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+  * Take Quizzes: Answer multiple-choice questions and get instant feedback on your performance.
+  * Create Quizzes: Build custom quizzes with your own questions and answers.
+  * Real-Time Timer: Each question has a countdown timer, adding a challenge to the quiz-taking experience.  
+  *  Results Summary: After completing a quiz, users can view their scores, correct answers, and wrong answers.  
+  *  Responsive Design: The app is fully responsive and works well on both mobile and desktop devices.  
+  *  Routing: The app features a navigation bar that allows users to easily navigate between different pages.  
