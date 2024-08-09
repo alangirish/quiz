@@ -9,3 +9,12 @@ Quiz App is an interactive web application that allows users to take quizzes and
   *  Results Summary: After completing a quiz, users can view their scores, correct answers, and wrong answers.  
   *  Responsive Design: The app is fully responsive and works well on both mobile and desktop devices.  
   *  Routing: The app features a navigation bar that allows users to easily navigate between different pages.  
+
+# Technology Used
+  * React.js.
+  * React Router.
+  * Tailwind CSS.  
+  *  JavaScript (ES6+).
+  *  HTML5
+  *  CSS3
+ 
